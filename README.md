@@ -1,2 +1,3 @@
 # sql
+
 notes for sql
